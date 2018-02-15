@@ -16,7 +16,7 @@ class Application:
 
 	def __init__(self):
 		self.initializeDeck()
-		self.initializePlayers()a
+		self.initializePlayers()
 		self.initializeStack()
 		self.initializeLosers()
 		self.initializeStatus()
