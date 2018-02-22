@@ -1,6 +1,11 @@
 # PYTHON_MAUMAU
 A non-interactive PYTHON version of the game mau mau (pesten)
 
+## How to run
+```bash
+python ./main.py
+```
+
 ## Rules
  - Shuffle a deck of 52 playing cards (no Jokers). Pass seven cards to each player. The remainder is called the stack.
  -  At the beginning of the game the topmost card is revealed, then the players each get a turn to play cards.
